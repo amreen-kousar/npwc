@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "155558617411",
+    "project_id": "novaadmin-61a12",
+    "storage_bucket": "novaadmin-61a12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155558617411:android:07ad6f08438069f9d98ff6",
+        "android_client_info": {
+          "package_name": "com.nova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155558617411-ohes8e5cl0heihq68ecgl5g1dba0oc5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyBIrJwCUG2zyyi0P8jbvvvdOM_-NKy3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155558617411-ohes8e5cl0heihq68ecgl5g1dba0oc5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817536742070:android:d1034ca6d8414fc8c6ec17",
+        "android_client_info": {
+          "package_name": "com.npwc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155558617411-ohes8e5cl0heihq68ecgl5g1dba0oc5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyBIrJwCUG2zyyi0P8jbvvvdOM_-NKy3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155558617411-ohes8e5cl0heihq68ecgl5g1dba0oc5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.npwc.app-merged_res-40:/drawable-mdpi_src_assets_icons_searchdark.png.flat",
+        "source": "com.npwc.app-react-35:/drawable-mdpi/src_assets_icons_searchdark.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/drawable-mdpi_src_assets_icons_search.png.flat",
+        "source": "com.npwc.app-react-35:/drawable-mdpi/src_assets_icons_search.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.npwc.app-main-41:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/drawable-mdpi_src_assets_images_foodlogo.png.flat",
+        "source": "com.npwc.app-react-35:/drawable-mdpi/src_assets_images_foodlogo.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.npwc.app-main-41:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/drawable-mdpi_src_assets_images_exerciselogo.png.flat",
+        "source": "com.npwc.app-react-35:/drawable-mdpi/src_assets_images_exerciselogo.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/drawable-mdpi_src_assets_icons_explore.png.flat",
+        "source": "com.npwc.app-react-35:/drawable-mdpi/src_assets_icons_explore.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.npwc.app-main-41:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.npwc.app-main-41:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/drawable-mdpi_src_assets_icons_exdark.png.flat",
+        "source": "com.npwc.app-react-35:/drawable-mdpi/src_assets_icons_exdark.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.npwc.app-react-35:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/drawable-mdpi_src_assets_icons_hb1.png.flat",
+        "source": "com.npwc.app-react-35:/drawable-mdpi/src_assets_icons_hb1.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_down.png.flat",
+        "source": "com.npwc.app-react-35:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_down.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.npwc.app-main-41:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/drawable-mdpi_src_assets_icons_camera.png.flat",
+        "source": "com.npwc.app-react-35:/drawable-mdpi/src_assets_icons_camera.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_close.png.flat",
+        "source": "com.npwc.app-react-35:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_close.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.npwc.app-main-41:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.npwc.app-main-41:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.npwc.app-main-41:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.npwc.app-main-41:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.npwc.app-react-35:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.npwc.app-react-35:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.npwc.app-react-35:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.npwc.app-react-35:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.npwc.app-main-41:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.npwc.app-main-41:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.npwc.app-react-35:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.npwc.app-merged_res-40:/drawable-mdpi_src_assets_icons_hbd1.png.flat",
+        "source": "com.npwc.app-react-35:/drawable-mdpi/src_assets_icons_hbd1.png"
+    }
+]

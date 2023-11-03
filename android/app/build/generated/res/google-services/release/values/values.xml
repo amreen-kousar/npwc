@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">155558617411-ohes8e5cl0heihq68ecgl5g1dba0oc5t.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">155558617411</string>
+    <string name="google_api_key" translatable="false">AIzaSyCyBIrJwCUG2zyyi0P8jbvvvdOM_-NKy3M</string>
+    <string name="google_app_id" translatable="false">1:817536742070:android:d1034ca6d8414fc8c6ec17</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCyBIrJwCUG2zyyi0P8jbvvvdOM_-NKy3M</string>
+    <string name="google_storage_bucket" translatable="false">novaadmin-61a12.appspot.com</string>
+    <string name="project_id" translatable="false">novaadmin-61a12</string>
+</resources>

@@ -1,0 +1,102 @@
+import Color from 'color';
+
+const themeColors = {
+  primary: '#007AFF',
+  primaryLight: '#2D96FF',
+  secondary: '#DC2430',
+  secondaryLight: '#F1A7AC',
+  success: '#06D6A0',
+  danger: '#FB5D5F',
+  warning: '#FFBD3A',
+  info: '#EBF5FF',
+  background: '#ffffff',
+  cardbg: '#00D4A2',
+  explorecard: '#4069D3',
+  upturnblue: '#36E7FF',
+  cardpink: '#FF00E5',
+  content: '#202020',
+  disabledText: '#585858',
+  newblack: "#112866",
+};
+
+export const mainColors = {
+  blackCard: '#2C2B2B',
+  homeMainCard: '#D1A6E7',
+  homeInCard: '#BB8ED1',
+  categoryCards: '#F0E7F5',
+  gold: '#E1B725',
+}
+
+
+export const colors = {
+  primaryBackground: '#EBF5FF',
+  secondaryBackground: '#F9E5E6',
+  newblack: themeColors.newblack,
+  primary: themeColors.primary,
+  cardpink: themeColors.cardpink,
+  explorecard: themeColors.explorecard,
+  cardbg: themeColors.cardbg,
+  upturnblue: themeColors.upturnblue,
+  warning: themeColors.warning,
+  primaryLight: themeColors.primaryLight,
+  secondary: themeColors.secondary,
+  secondaryLight: themeColors.secondaryLight,
+  background: '#FFFFFF',
+  invertedBackground: '#000000',
+  circleShadow: '#6D6D6D1A',
+  dark: themeColors.content,
+  tabBorder: '#636363',
+  buttonBorder: '#2020200F',
+  iconBorder: '#2020201A',
+  inputBorder: 'rgba(32, 32, 32, 0.2)',
+  placeholder: 'rgba(32, 32, 32, 0.5)',
+  pendingFill: 'rgba(255, 161, 26, 0.1)',
+  paidGreen: themeColors.success,
+  paidGreenFill: 'rgba(6, 214, 160, 0.1)',
+  progressRedFill: 'rgba(220, 36, 48, 0.1)',
+  progressRed: themeColors.secondary,
+  failureRed: themeColors.danger,
+  successGreen: themeColors.success,
+  hintColor: themeColors.disabledText,
+  modal: {
+    backdrop: Color(themeColors.content).fade(0.8).toString(),
+  },
+  card: {
+    shadowColor: '#6D6D6D1A',
+  },
+  shadowBox: '#E8EBF4',
+  borders: {
+    primary: themeColors.primary,
+  },
+  shadows: {
+    primary: Color(themeColors.primaryLight).alpha(0.5).toString(),
+  },
+  button: {
+    gradient: {
+      start: themeColors.primaryLight,
+      end: themeColors.primary,
+      disabledStart: Color(themeColors.primaryLight).fade(0.65).toString(),
+      disabledEnd: Color(themeColors.primary).fade(0.65).toString(),
+    },
+    loading: {
+      ring: Color(themeColors.background).fade(0.65).toString(),
+      loader: themeColors.background,
+    },
+    shadowColor: '#6D6D6D1A',
+  },
+  text: {
+    black: themeColors.newblack,
+    primary: themeColors.primary,
+    content: themeColors.content,
+    description: Color(themeColors.content).fade(0.15).toString(),
+    label: Color(themeColors.content).fade(0.5).toString(),
+    notes: themeColors.disabledText,
+    inverted: themeColors.background,
+    invertedNotes: Color(themeColors.background).fade(0.5).toString(),
+    warning: themeColors.warning,
+    success: themeColors.success,
+    info: themeColors.info,
+    error: themeColors.secondary,
+    danger: themeColors.danger,
+  },
+};
